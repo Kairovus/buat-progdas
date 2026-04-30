@@ -1,1 +1,5 @@
-ya itu la ya
+#include <stdio.h>
+
+int main(){
+    printf("Hello World");
+}
